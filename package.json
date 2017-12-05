@@ -1,0 +1,28 @@
+{
+  "name": "casino",
+  "version": "0.0.0",
+  "description": "A module for simulating and playing Blackjack games",
+  "author": "Keith Horwood <keithwhor@gmail.com>",
+  "main": "index.js",
+  "keywords": [
+    "casino",
+    "black jack",
+    "blackjack",
+    "21",
+    "simulations",
+    "simulation",
+    "sim",
+    "card",
+    "cards",
+    "cardgames",
+    "games",
+    "game"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keithwhor/casino.git"
+  },
+  "dependencies": {},
+  "private": false,
+  "license": "MIT"
+}
