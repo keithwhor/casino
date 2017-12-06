@@ -1,6 +1,6 @@
 {
   "name": "casino",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A module for simulating and playing Blackjack games",
   "author": "Keith Horwood <keithwhor@gmail.com>",
   "main": "index.js",
